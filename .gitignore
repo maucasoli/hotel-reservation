@@ -1,0 +1,35 @@
+# Visual Studio / Windows Forms
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.ipch
+*.pch
+*.aps
+*.idb
+*.pdb
+*.obj
+*.lib
+*.dll
+*.exe
+*.log
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Temp
+*.tmp
+*.bak
+*.swp
+*~ 
