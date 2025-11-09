@@ -1,8 +1,8 @@
-﻿# Gestion de réservation: C++ Windows Forms + SQLite
+﻿# Gestion de réservation: C++/CLI + Windows Forms + SQLite
 
 [Premier projet]
 
-Une application Windows Forms développée en **C++ avec Windows Forms** permettant de gérer des données stockées dans une base **SQLite**.  
+Une application Windows Forms développée en **C++/CLI avec Windows Forms** permettant de gérer des données stockées dans une base **SQLite**.  
 Le projet inclut des fonctionnalités de création, d'annulation, de modification, d'affichage et de recherche de réservation de chambres d'un hotel.
 
 ---
